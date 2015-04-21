@@ -11,6 +11,21 @@
 	</head>
 	
 	<body>
+		<div class="container">
+			<div class="header">
+				<div class="navibar">
+					
+				</div>
+			</div>
+			
+			<div class="content">
+				
+			</div>
+			
+			<div class="footer">
+				
+			</div>
+		</div>
 		
 		<!-- jQuery (부트스트랩의 자바스크립트 플러그인을 위해 필요한) -->
 		<script src="//code.jquery.com/jquery.js"></script>
